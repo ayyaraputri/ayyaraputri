@@ -3,8 +3,11 @@ Halo! Aku Ayyara, panggil saja Ayu / Ray 👋
 🚀 About Me
 
 🔭 Sedang menempuh pendidikan di: SMK Muhammadiyah 3 Tangerang Selatan (Rekayasa Perangkat Lunak)
+
 🌱 Saat ini sedang belajar: HTML, CSS, JAVASCRIPT, PHP, dan PHYTON
+
 👯 Tertarik untuk berkolaborasi pada: Desain tata letak Website
+
 🌟 Interest Check!: Suka ngulik struktur Front-End, Membuat Design untuk menambah portofolio, dan. . . Project Sekai! (Especially Emu Otori💓) :3
 
 ### 💻 Tech Stack & Tools
@@ -21,4 +24,5 @@ Halo! Aku Ayyara, panggil saja Ayu / Ray 👋
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 🐍 My Contribution Graph
+
 Berikut adalah aktivitas ngodingku👇
